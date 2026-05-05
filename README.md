@@ -1,1 +1,2 @@
 # ecskurs
+Ödev1: 
