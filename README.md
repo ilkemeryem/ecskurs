@@ -1,2 +1,2 @@
 # ecskurs
-Ödev1: 
+Ödev1: https://github.com/ilkemeryem/ecskurs
