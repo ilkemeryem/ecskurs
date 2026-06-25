@@ -6,4 +6,5 @@ W2L1: https://colab.research.google.com/drive/1CmfRJfrP0dxfTFpqloPE-C0XmGoRjtVA?
 W2L2: https://colab.research.google.com/drive/1PrIg2zUAWaz_WDuSO3lOCeufHhcxMUjT?usp=sharing <br>
 factorialhw: https://colab.research.google.com/drive/1M3DPbSRpQ7uRl7XPEJp-HJQAu7ZWL4tl?usp=sharing <br>
 W2-L2NUMPY: https://colab.research.google.com/drive/1eZsEFzXW8GesnCqNgjVxLJQoq5obdCTl?usp=sharing <br>
-W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K0sRhXTXjS61z_?usp=sharing
+W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K0sRhXTXjS61z_?usp=sharing <br>
+W3-L2: https://colab.research.google.com/drive/1HN6VAa0FOrYqx7gb4luQPSv9jbGyX1Xt?usp=sharing
