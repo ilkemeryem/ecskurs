@@ -9,3 +9,5 @@ W2-L2NUMPY: https://colab.research.google.com/drive/1eZsEFzXW8GesnCqNgjVxLJQoq5o
 W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K0sRhXTXjS61z_?usp=sharing <br>
 [W3-L2]: https://colab.research.google.com/drive/1HN6VAa0FOrYqx7gb4luQPSv9jbGyX1Xt?usp=sharing <br>
 [W3-L2-NB2]: https://colab.research.google.com/drive/1wvQnaeWifuI3ni6GlczjtdzzTcRVNx37?usp=sharing
+<br>
+[İş analizi paneli]: https://share.gemini.google/XfxXAqElyUhE
