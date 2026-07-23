@@ -8,7 +8,7 @@ factorialhw: https://colab.research.google.com/drive/1M3DPbSRpQ7uRl7XPEJp-HJQAu7
 W2-L2NUMPY: https://colab.research.google.com/drive/1eZsEFzXW8GesnCqNgjVxLJQoq5obdCTl?usp=sharing <br>
 W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K0sRhXTXjS61z_?usp=sharing <br>
 <br>
-[GOOGLE AI APP HOMEWORK] : https://ai.studio/apps/323644b7-4a12-4f4b-a9e0-fcebcda6ea29
+[GOOGLE AI APP HOMEWORK] : https://ai.studio/apps/323644b7-4a12-4f4b-a9e0-fcebcda6ea29 <br>
 [W3-L2]: https://colab.research.google.com/drive/1HN6VAa0FOrYqx7gb4luQPSv9jbGyX1Xt?usp=sharing <br>
 [W3-L2-NB2]: https://colab.research.google.com/drive/1wvQnaeWifuI3ni6GlczjtdzzTcRVNx37?usp=sharing
 <br>
