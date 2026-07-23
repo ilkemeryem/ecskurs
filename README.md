@@ -15,3 +15,4 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [W4-L1] : https://colab.research.google.com/drive/1wvQnaeWifuI3ni6GlczjtdzzTcRVNx37?usp=sharing
 <br>
 [W5-L1]: https://www.kaggle.com/code/ilkemyy/vb-90-2-titanic-veri-analizi
+[W5-L2] : https://colab.research.google.com/drive/10IibYofUHxEVdyvUUl-_KsBgOKA_Bime#scrollTo=gzfQOXuPKEix
