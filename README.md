@@ -12,7 +12,7 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [W3-L2]: https://colab.research.google.com/drive/1HN6VAa0FOrYqx7gb4luQPSv9jbGyX1Xt?usp=sharing <br>
 [W3-L2-NB2]: https://colab.research.google.com/drive/1wvQnaeWifuI3ni6GlczjtdzzTcRVNx37?usp=sharing
 <br>
-[ÖDEV ANALİZ PANELİ]: https://share.gemini.google/pSDh7a88owmy
+[HW ANALYSIS PANEL]: https://share.gemini.google/pSDh7a88owmy
 <br>
 [W4-L1] : https://colab.research.google.com/drive/1wvQnaeWifuI3ni6GlczjtdzzTcRVNx37?usp=sharing
 <br>
