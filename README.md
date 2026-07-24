@@ -18,4 +18,5 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 <br>
 [W5-L1 Titanic Analysis 1]: https://www.kaggle.com/code/ilkemyy/vb-90-2-titanic-veri-analizi <br>
 [W5-L2] : https://colab.research.google.com/drive/10IibYofUHxEVdyvUUl-_KsBgOKA_Bime#scrollTo=gzfQOXuPKEix <br>
-[Titanic Analysis 2]: https://www.kaggle.com/code/ilkemyy/vb-90-2-titanic-veri-analizi
+[Titanic Analysis 2]: https://www.kaggle.com/code/ilkemyy/vb-90-2-titanic-veri-analizi <br>
+[W6-L1] [Titanic Score Homework]: https://www.kaggle.com/code/ilkemyy/vb-90-2-titanic-veri-analizi
