@@ -22,3 +22,5 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [W6-L1] [Titanic Score Homework]: https://www.kaggle.com/code/ilkemyy/vb-90-2-titanic-veri-analizi<br>
 [W6-L2] [2.El Araç Fiyat Tahmin]: https://colab.research.google.com/drive/1vg8xwrTy0E8MUwZlPUWgZY-R60HeVckI?usp=sharing <br>
 [W7-L1] [2.El Araç Fiyat Tahmin Model Dosyası]: https://github.com/ilkemeryem/ecskurs/blob/main/car_pipe.pkl
+<br> https://colab.research.google.com/drive/1vg8xwrTy0E8MUwZlPUWgZY-R60HeVckI?usp=sharing
+[HuggingFacede Gradio ücretli olduğundan yükleme işlemini yapamadım.]
