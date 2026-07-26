@@ -27,5 +27,6 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [W7-L2][GOOGLE AGV GRADIO]: https://github.com/ilkemeryem/gradio-form <br>
 [W7-L3][COVID YARISAN GRAFIKLER]: https://colab.research.google.com/drive/1q4777y6DC5BnHVyojVVDfVtk1PuFThY0?usp=sharing <br>
 [Nufus Dagılım ODEV] <br>
-[W7-L3-P2]: https://colab.research.google.com/drive/1lKxSPFJiC-yy9TgZbc_tld2O7S3jFi-Y?usp=sharing
+[W7-L3-P2]: https://colab.research.google.com/drive/1lKxSPFJiC-yy9TgZbc_tld2O7S3jFi-Y?usp=sharing <br>
+[ W7-L3-P3][Bing ile görsel indirme]: https://colab.research.google.com/drive/16DFZ8JYS6XeEKC77o27NeHnBqGSL0ofa?usp=sharing
 
