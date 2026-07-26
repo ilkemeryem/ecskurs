@@ -24,4 +24,5 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [W7-L1] [2.El Araç Fiyat Tahmin Model Dosyası]: https://github.com/ilkemeryem/ecskurs/blob/main/car_pipe.pkl
 <br> https://colab.research.google.com/drive/1vg8xwrTy0E8MUwZlPUWgZY-R60HeVckI?usp=sharing <br>
 [HOMEWORK]: https://huggingface.co/spaces/ilkemy/AracFiyatTahmin/blob/main/app.py <br>
-[GOOGLE AGV GRADIO]: https://github.com/ilkemeryem/gradio-form
+[W7-L2][GOOGLE AGV GRADIO]: https://github.com/ilkemeryem/gradio-form <br>
+[W7-L3][COVID YARISAN GRAFIKLER]: https://colab.research.google.com/drive/1q4777y6DC5BnHVyojVVDfVtk1PuFThY0?usp=sharing
