@@ -34,3 +34,4 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [W8-L2] : https://colab.research.google.com/drive/1X2I35cGKX_YwJTwGW_G2dB-zLQ3GAXjK?usp=sharing
 <br>
 [HOMEWORK  W9 L1-2]: https://d9b165984ce7e5a19b.gradio.live
+[W9 L1-2-3] : https://colab.research.google.com/drive/1KEtMaA0rczj_cLvpOx-klaRoJOnq5NMg?usp=sharing
