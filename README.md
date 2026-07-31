@@ -42,4 +42,5 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [W10-L2]: https://colab.research.google.com/drive/1S0kQwZ8DVMQUrkl5FmVY_10w1b-AuUik?usp=sharing <br>
 [W10-L2-2] : https://colab.research.google.com/drive/1e2xwCYwqIUFsjeO2ZVb0D0XYf1tXCmEY?usp=sharing <br>
 [W10-L3]: https://colab.research.google.com/drive/1CtYFd4aW2KLAnYFiXFh9SwdtHjm33VHo?usp=sharing <br>
-[HW Agent]: https://elevenlabs.io/app/talk-to?agent_id=agent_1801kyt9f6bbf5tbtdvszycnv6d1&branch_id=agtbrch_0701kyt9f716f1bsm4mbpe0cx9sp
+[HW Agent]: https://elevenlabs.io/app/talk-to?agent_id=agent_1801kyt9f6bbf5tbtdvszycnv6d1&branch_id=agtbrch_0701kyt9f716f1bsm4mbpe0cx9sp]] <br>
+[W11-L1]: https://colab.research.google.com/drive/16-zc_OfHQ3XykxGq4cPyLhVuuVbCSErS?usp=sharing
