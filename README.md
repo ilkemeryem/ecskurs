@@ -47,4 +47,5 @@ W3-L1 NUMPY-PANDAS: https://colab.research.google.com/drive/1PVJfHgIRTgkFQIf-X3K
 [streamlit W11-L2] : https://siyah-beyazz.streamlit.app <br>
 [W11-L3]: https://colab.research.google.com/drive/1-SgFAD4RwVuu9SM1ws93FX_ocolHecAo?usp=sharing <br>
 [W12-L1]: https://colab.research.google.com/drive/1-ijOj7ND120cNAaTQ-vthTPII-0eBoy3?usp=sharing <br>
+[W12-ResNet]: https://colab.research.google.com/drive/1jsDmKuLU4xeeHBlqKziJeHGwf1g2tL5F?usp=sharing <br>
 [W12-L2]: https://colab.research.google.com/drive/1sXg2wqItHbeys6jub-n0pnx21_XNWLWQ?usp=sharing
